@@ -385,4 +385,10 @@ Malus加速器是游戏玩家的福音，如果你的主要需求是玩国服游
 
 这些VPN要么是功能不对口，要么是质量不过关，要么就是性价比太低。使用它们不仅达不到预期效果，还可能带来糟糕的体验。选择回国VPN时，还是要认准快帆VPN、穿梭VPN、Malus加速器这些专门做回国加速的服务商，它们才是真正为海外华人量身定制的产品。
 
+## 翻墙回国相关的其他文章：
 
+* <a href="https://github.com/cnvpns/cnvpns.github.io">科学上网教程</a>：2025年最好用的翻墙软件和翻墙VPN推荐！
+* <a href="https://github.com/cnvpns/chinavpn.github.io">中国VPN排行</a>：2025年在中国大陆最好用的中国VPN推荐！
+* <a href="https://github.com/cnvpns/pcvpn.github.io">电脑翻墙教程</a>：2025年中国最好用的PC端电脑VPN推荐！
+* <a href="https://github.com/cnvpns/android.github.io">安卓翻墙教程</a>：2025年最好用的安卓机场和安卓VPN推荐！
+* <a href="https://github.com/cnvpns/freevpn.github.io">免费VPN推荐</a>：2025年最新免费VPN推荐（中国可用）！
