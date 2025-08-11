@@ -12,11 +12,11 @@
 
 <blockquote>
 
-* **<a href="https://af.kuaifan.club/scripts/click.php?a_aid=6058756242088">快帆VPN</a>**：成立于2012年的老牌服务商，拥有1100万海外华人用户。它的最大优势是连接稳定且速度非常快，全球部署150多条回国专线，采用独家Fanster协议，看4K视频完全不卡顿，玩国服游戏延迟超低。
+**<a href="https://af.kuaifan.club/scripts/click.php?a_aid=6058756242088">快帆VPN(首选)</a>**：成立于2012年的老牌服务商，拥有1100万海外华人用户。它的最大优势是连接稳定且速度非常快，全球部署150多条回国专线，采用独家Fanster协议，看4K视频完全不卡顿，玩国服游戏延迟超低。
 
-* **<a href="https://www.transocks.com/payment?affiliate-code=2zx3a4l">穿梭VPN</a>**：专为海外华人打造的回国加速器，已为超过1000万台设备提供服务。其核心优势是智能分流技术，只对国内网站走代理，访问Google、YouTube等海外网站不受影响，而且提供永久免费线路。
+**<a href="https://www.transocks.com/payment?affiliate-code=2zx3a4l">穿梭VPN(备选)</a>**：专为海外华人打造的回国加速器，已为超过1000万台设备提供服务。其核心优势是智能分流技术，只对国内网站走代理，访问Google、YouTube等海外网站不受影响，而且提供永久免费线路。
 
-* **<a href="https://getmalus.com/buy?affid=855047">Malus加速器</a>**：采用独创的边缘节点技术，服务器智能分流。最突出的特点是稳定性极强，实时监控各条线路带宽情况并动态分配，确保用户始终连接到最佳线路，特别适合长时间观看直播或玩国服游戏。
+**<a href="https://getmalus.com/buy?affid=855047">Malus加速器</a>**：采用独创的边缘节点技术，服务器智能分流。最突出的特点是稳定性极强，实时监控各条线路带宽情况并动态分配，确保用户始终连接到最佳线路，特别适合长时间观看直播或玩国服游戏。
 
 </blockquote>
 
