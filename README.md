@@ -131,7 +131,7 @@
 
 ****
 
-### 翻墙回国VPN备选：<a href="https://www.transocks.com/payment?affiliate-code=2zx3a4l">穿梭VPN - 性价比高</a>
+### 翻墙回国VPN备选：<a href="https://www.transocks.com/payment?affiliate-code=2zx3a4l">穿梭VPN - 综合性价比很高</a>
 
 穿梭VPN（Transocks）是2016年推出的回国加速器，虽然成立时间比快帆VPN晚几年，但凭借永久免费线路和高性价比，快速积累了1000万用户。穿梭VPN最大的特色就是提供免费使用选项，这在回国VPN市场里相当少见。它在全球部署了100多条回国线路，重点覆盖北美、日韩、东南亚等亚太地区，国内主要接入点集中在北上广深等一线城市。
 
@@ -181,7 +181,7 @@
 
 ****
 
-### 翻墙回国VPN替补：<a href="https://getmalus.com/buy?affid=855047">Malus加速器</a>
+### 翻墙回国VPN替补：<a href="https://getmalus.com/buy?affid=855047">Malus加速器 - 非常适合玩游戏</a>
 
 Malus加速器是2019年进入市场的新秀，虽然起步较晚，但发展势头很猛，目前已经积累了500万用户。Malus加速器主打游戏加速功能，在回国玩国服游戏这个细分领域做得相当出色。它部署了80多条专线，重点优化了游戏数据传输路径，特别是针对王者荣耀、和平精英、原神等热门手游进行了专门优化。
 
