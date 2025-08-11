@@ -22,6 +22,12 @@
 
 总的来说，这三款回国VPN各有千秋！快帆VPN速度最快且最稳定，可以满足所有用户需求；穿梭VPN性价比最高，而且还有免费线路；Malus加速器虽然价格略贵，但最适合玩国服游戏。它们都支持Windows、Mac、iOS、Android等主流设备，提供中文客服，支持支付宝、微信等国内支付方式。无论你是想听国内音乐、看视频直播，还是玩国服游戏，这三款翻墙回国VPN都能满足你的需求。
 
+<blockquote>
+
+注意：如果你身处中国大陆，并且想要翻墙出国访问海外网站的话，请查阅：<a href="https://github.com/cnvpns/cnvpns.github.io">科学上网</a>、<a href="https://github.com/cnvpns/chinavpn.github.io">中国VPN</a>、<a href="https://github.com/cnvpns/pcvpn.github.io">电脑VPN</a>、<a href="https://github.com/cnvpns/android.github.io">安卓VPN</a>、<a href="https://github.com/cnvpns/freevpn.github.io">免费VPN</a>！
+
+</blockquote>
+
 ## 海外华人如何翻墙回国内获取中国大陆IP地址？
 
 很多第一次使用回国VPN的朋友经常问我，海外华人翻墙回国内到底需要怎么操作，会不会很复杂？实际上，整个过程比你想象的要简单得多，基本上五分钟就能搞定。下面我就以快帆VPN为例，手把手教你如何获取中国大陆IP地址。
