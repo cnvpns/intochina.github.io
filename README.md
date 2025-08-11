@@ -24,7 +24,7 @@
 
 <blockquote>
 
-注意：中国大陆用户若想翻墙出国访问海外网站，请查阅：<a href="https://github.com/cnvpns/cnvpns.github.io">科学上网</a>、<a href="https://github.com/cnvpns/chinavpn.github.io">中国VPN</a>、<a href="https://github.com/cnvpns/pcvpn.github.io">电脑VPN</a>、<a href="https://github.com/cnvpns/android.github.io">安卓VPN</a>、<a href="https://github.com/cnvpns/freevpn.github.io">免费VPN</a>！
+注意：大陆用户若想翻墙出国访问海外网站，请查阅：<a href="https://github.com/cnvpns/cnvpns.github.io">科学上网</a>、<a href="https://github.com/cnvpns/chinavpn.github.io">中国VPN</a>、<a href="https://github.com/cnvpns/pcvpn.github.io">电脑VPN</a>、<a href="https://github.com/cnvpns/android.github.io">安卓VPN</a>、<a href="https://github.com/cnvpns/freevpn.github.io">免费VPN</a>！
 
 </blockquote>
 
