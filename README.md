@@ -131,7 +131,7 @@
 
 ****
 
-### 翻墙回国VPN备选：<a href="https://www.transocks.com/payment?affiliate-code=2zx3a4l">穿梭VPN</a>
+### 翻墙回国VPN备选：<a href="https://www.transocks.com/payment?affiliate-code=2zx3a4l">穿梭VPN - 性价比高</a>
 
 穿梭VPN（Transocks）是2016年推出的回国加速器，虽然成立时间比快帆VPN晚几年，但凭借永久免费线路和高性价比，快速积累了1000万用户。穿梭VPN最大的特色就是提供免费使用选项，这在回国VPN市场里相当少见。它在全球部署了100多条回国线路，重点覆盖北美、日韩、东南亚等亚太地区，国内主要接入点集中在北上广深等一线城市。
 
