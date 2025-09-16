@@ -1,6 +1,6 @@
 # <p align="center">2025年海外华人翻墙回国VPN加速器推荐！</p>
 
-<p align="center">最近更新：2025年8月11日</p>
+<p align="center">最近更新：2025年9月16日</p>
 
 身在海外的你，是不是经常遇到这样的烦恼：想追最新的国产剧，结果显示“该视频仅限中国大陆地区播放”；打开网易云音乐，发现收藏的歌单全部变灰；想和国内朋友开黑玩王者荣耀，延迟高得让人抓狂。这些限制让海外华人、留学生和出差人士倍感困扰。
 
@@ -397,3 +397,4 @@ Malus加速器是游戏玩家的福音，如果你的主要需求是玩国服游
 * <a href="https://github.com/cnvpns/pcvpn.github.io">电脑翻墙教程</a>：2025年中国最好用的PC端电脑VPN推荐！
 * <a href="https://github.com/cnvpns/android.github.io">安卓翻墙教程</a>：2025年最好用的安卓机场和安卓VPN推荐！
 * <a href="https://github.com/cnvpns/freevpn.github.io">免费VPN推荐</a>：2025年最新免费VPN推荐（中国可用）！
+* <a href="https://github.com/cnvpns/expressvpn.github.io">ExpressVPN评测</a>：ExpressVPN怎么样？ExpressVPN国内还能用吗？
